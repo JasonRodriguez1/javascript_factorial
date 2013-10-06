@@ -1,0 +1,15 @@
+.result {
+  display: none;
+}
+
+.container{
+  color: white;
+  font-family: arial;
+  font-style: italic;
+  text-align: center;
+  background: black;
+}
+
+body{  
+  background-image:url('../img/math.jpg');
+}
